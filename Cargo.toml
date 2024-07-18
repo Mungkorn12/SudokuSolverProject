@@ -1,0 +1,11 @@
+[package]
+name = "funpar_sudoku_proejct"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rayon = "1.10.0"
+colored = "2.0"
+figlet-rs = "0.1.5"
+termion = "4.0.2"
+crossbeam = "0.8.4"
